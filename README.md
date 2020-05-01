@@ -1,5 +1,3 @@
-[![CircleCI](https://circleci.com/gh/typo-ai/tap-typo.svg?style=shield)](https://circleci.com/gh/typo-ai/tap-typo)
-
 # tap-typo
 
 [Singer](https://singer.io) tap that extracts data from the [Typo](https://www.typo.ai?utm_source=github&utm_medium=tap-typo) platform. The tap produces JSON-formatted data output
@@ -173,13 +171,4 @@ You may reach Typo Support at the email address support@ followed by the typo do
 
 ---
 
-Copyright 2019-2020 Typo. All Rights Reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
-
-You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-implied. See the License for the specific language governing permissions and limitations under the License.
-
-This product includes software developed at or by Typo ([https://www.typo.ai](https://www.typo.ai?utm_source=github&utm_medium=tap-typo)).
+Copyright &copy; 2020 Stitch
