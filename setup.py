@@ -12,7 +12,7 @@ def read(*paths):
 
 setup(
     name='tap-typo',
-    version='0.2.0',
+    version='0.2.1',
     description=(
         'Typo is the intelligent data quality barrier for '
         'enterprise information systems. The Typo tap '
@@ -44,7 +44,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'singer-python>=5.0.12',
-        'requests>=2.21.0',
+        'requests>=2.31.0',
         'jsonschema>=2.6.0,<3.0a',
         'backoff==1.8.0',
         'rfc3339==6.2'
